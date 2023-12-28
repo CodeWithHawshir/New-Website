@@ -1,0 +1,67 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: tan;
+}
+
+.para1{
+    border: 1px solid #000;
+    width: 200px;
+    display: inline-block;
+    padding: 0px 10px;
+    background-color: red;
+    color: white;
+}
+.para2{
+    border: 1px solid #000;
+    width: 200px;
+    display: inline-block;
+    padding: 0 10px;
+    background-color: green;
+    color: white;
+}
+.para3{
+    border: 1px solid #000;
+    width: 200px;
+    display: inline-block;
+    padding: 0 10px;
+    background-color: blue;
+    color: white;
+    
+
+}
+.para4{
+    border: 1px solid #000;
+    width: 200px;
+    display: inline-block;
+    padding: 0 10px;
+    background-color: rgb(156, 156, 130);
+    color: white;
+}
+.red{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.green{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.blue{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.grey{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.pic{
+    width: 220px;
+    height: 220px;
+}
+
+div{
+    text-align: center;
+}
